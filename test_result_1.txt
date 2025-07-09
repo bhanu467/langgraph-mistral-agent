@@ -1,0 +1,16 @@
+Test Case: Math Problem
+Input: What is 10 + 15 * 2?
+Route: math
+Processing Type: mathematical
+Execution Time: 14.05s
+Timestamp: 2025-08-08 22:08:24
+Output: [MATH] Math Solution:
+ To solve this problem, we follow the order of operations, which is commonly remembered by the acronym PEMDAS: Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+
+Step 1: Multiply the numbers being multiplied, which are 15 and 2. That gives us 30.
+
+Step 2: Add the number that was not involved in the multiplication, which is 10.
+
+So, 10 + (15 * 2) = 10 + 30 = 40
+
+The final answer is 40.
